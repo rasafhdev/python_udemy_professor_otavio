@@ -22,8 +22,6 @@ class Ponto:
 
 
 
-
-
 if __name__ == '__main__':
 
     p1 = Ponto(1,2)
